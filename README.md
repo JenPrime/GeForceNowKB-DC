@@ -13,4 +13,4 @@ I know the code is buggy and messy, I'm still working on it.
 1. Launch the game in GeForce Now
 2. add wrapper\jpgfn[the game's name].exe as a Game in the Gaming software
    for Logitech Gaming Software also select "Lock profile in while game is running"
-   for anything else I havent tested it
+   for anything else I haven't tested it
