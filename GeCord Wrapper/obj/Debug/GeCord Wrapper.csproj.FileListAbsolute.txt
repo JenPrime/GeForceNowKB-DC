@@ -1,0 +1,9 @@
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\bin\Debug\GeCord Wrapper.exe.config
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\bin\Debug\GeCord Wrapper.exe
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\bin\Debug\GeCord Wrapper.pdb
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord Wrapper.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord Wrapper.exe
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord Wrapper.pdb
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord_Wrapper.GeWrapper.resources
+C:\Users\Jerome\source\repos\GeCord\GeCord Wrapper\obj\Debug\GeCord Wrapper.csproj.GenerateResource.cache

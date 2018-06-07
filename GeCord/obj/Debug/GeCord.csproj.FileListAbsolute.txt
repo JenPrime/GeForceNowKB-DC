@@ -1,0 +1,10 @@
+C:\Users\Jerome\source\repos\GeCord\GeCord\bin\Debug\GeCord.exe.config
+C:\Users\Jerome\source\repos\GeCord\GeCord\bin\Debug\GeCord.exe
+C:\Users\Jerome\source\repos\GeCord\GeCord\bin\Debug\GeCord.pdb
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.csprojResolveAssemblyReference.cache
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.GeCord.resources
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.Properties.Resources.resources
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.csproj.GenerateResource.cache
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.exe
+C:\Users\Jerome\source\repos\GeCord\GeCord\obj\Debug\GeCord.pdb
